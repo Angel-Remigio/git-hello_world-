@@ -68,11 +68,48 @@ if (helado === "chocolate") {
   alert("Awwww, pero mi favorito es el de chocolate...");
 }
 ```
+
+
 # Tablas
 | Nombre | Apellidos | Documento |
 | ------ | --------- | --------- |
 | Angel  | Remigio   | 42378     |
 | Juan   | Perez     | index     |
+
+
+# Citas
+Esto es un texto a una cita referente al texte de abajo
+
+> Esto es una Cita.
+
+Esto es otro texto fuera de la lista
+
+> Esto es otra cita.
+
+Para evitar que siga dentro de la cita el texto damos dos enter para salir de la cita
+
+
+# Lineas divisoras
+
+Texto de ejmplo para dividir (dividido por guiones)
+
+---
+Esto es otro texto para el ejemplo (dividido por asteriscos)
+
+***
+Esto es un ultimo texto (dividido por guion bajo)
+
+___
+
+
+# Saltos de linea
+
+Esto es el primer parrafo
+
+Esto es el segundo parrafo
+
+Esto es el tercer parrafo
+
 
 
 
