@@ -68,6 +68,15 @@ if (helado === "chocolate") {
   alert("Awwww, pero mi favorito es el de chocolate...");
 }
 ```
+# Tablas
+| Nombre | Apellidos | Documento |
+| ------ | --------- | --------- |
+| Angel  | Remigio   | 42378     |
+| Juan   | Perez     | index     |
+
+
+
+
 
 
 
