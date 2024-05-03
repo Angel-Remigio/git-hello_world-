@@ -104,7 +104,7 @@ ___
 
 # Saltos de linea
 
-Esto es el primer parrafo
+Esto es el primer parrafo (damos dos enter para el salto de linea)
 
 Esto es el segundo parrafo
 
