@@ -40,7 +40,35 @@ underline 2
 
 # Imagenes
 
-![Logo GitHib](https://cdn-icons-png.flaticon.com/512/25/25231.png)
+![Logo GitHib](https://icones.pro/wp-content/uploads/2021/06/icone-github-orange.png)
+
+
+# codigo snippets
+codigo en JSON
+```JSON
+[
+    {
+        "title": "apples",
+        "count": [12000, 20000],
+        "description": {"text":"...", "sensitive": false} 
+    },
+    {
+        "title": "oranges",
+        "count": [17500, null],
+        "description": {"text":"...", "sensitive": false}  
+    }
+]
+```
+codigo en JavaScript
+```Javascript
+let helado = "chocolate";
+if (helado === "chocolate") {
+  alert("¡Sí, amo el helado de chocolate!");
+} else {
+  alert("Awwww, pero mi favorito es el de chocolate...");
+}
+```
+
 
 
 
